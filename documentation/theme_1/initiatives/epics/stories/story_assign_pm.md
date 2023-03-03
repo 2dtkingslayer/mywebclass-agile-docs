@@ -25,6 +25,18 @@ project timeline as necessary.
    to help track progress, including code frequency, pull request activity, 
    and contributor activity.
    
+**Acceptance Criteria:**
+
+*  <u>Completion of tasks:</u> The project's progress should be tracked based 
+   on the completion of individual tasks, milestones, or deliverables, which 
+   should be clearly defined and measurable.
+
+*  <u>Accuracy of estimates:</u> The progress should be measured against the 
+   original estimates, such as time, cost, and resources, to ensure that the 
+   project is on track and within budget.
+
+*  <u>Quality of deliverables:</u> The progress should be evaluated based on the quality of the deliverables produced, such as meeting the functional requirements, user expectations, or industry standards.
+   
 # List Tasks related to this theme
 1. [Create a HOME PAGE](tasks/task3.md)
 2. [Create a FAQ PAGE](tasks/task1.md)
