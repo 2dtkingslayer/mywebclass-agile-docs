@@ -1,4 +1,4 @@
-**Task Title: User story with MAP**
+# Create a MAP page
 
 **User Story:** As a person looking to get vaccinated, I want to see a map that 
 shows me the location of nearby hospitals that offer the vaccine. I want to be 
@@ -19,11 +19,11 @@ is Google Maps page, it already has all information:
 
 **Effort Estimate:** It took 2 hours to complete a page implementing Google Maps.
 
-**Assigned To:** [Khoa Nguyen](https://www.linkedin.com/in/khoanguyen2410/), [Truong Dang](https://www.linkedin.com/in/2dt/)
+**Assigned To:** Khoa Nguyen, Truong Dang
 
 **Priority:** 4.0 / 5.0. Some potential considerations: user needs, website goals, availability of 
 information, technical feasibility.
 
 **Status:** <span style="color:green">Completed</span>
 
-**Notes:** Implement Google Maps
+**Notes:** Google Maps

@@ -1,4 +1,4 @@
-**Task Title: User story with FAQ PAGE**
+# Create a FAQ PAGE
 
 **User Story:** As a user who is new to the vaccine, I want to be able to easily 
 find answers to common questions about the vaccine, so that I can learn more about it and feel more informed.
@@ -28,9 +28,9 @@ find answers to common questions about the vaccine, so that I can learn more abo
 Furthermore, I need to keep the FAQ page up-to-date with the latest knowledge 
 about vaccine so I have to revise the page monthly.
 
-**Assigned To:** [Khoa Nguyen](https://www.linkedin.com/in/khoanguyen2410/), [Truong Dang](https://www.linkedin.com/in/2dt/)
+**Assigned To:** Khoa Nguyen, Truong Dang
 
-**Priority:** 1.0 / 5.0. Some potential considerations: user needs, website goals, availability of 
+**Priority:** 2.0 / 5.0. Some potential considerations: user needs, website goals, availability of 
 information.
 
 **Status:** <span style="color:green">Completed</span>
