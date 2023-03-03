@@ -71,7 +71,14 @@ and the project timeline.
     and compatibility of technical systems, such as software platforms, 
     hardware infrastructure, or network connectivity. 
 
-**Team:** All team members should understand clearly the project's scope and follow the rules.
+**Team:**
+
+* [An Tran](https://github.com/an-hai-tran): Initiate policies, Track the process
+* [Truong Dang](https://github.com/2dtkingslayer): Feedback
+* [Khoa Nguyen](https://www.linkedin.com/in/khoanguyen2410): Initiate policies
+* [Tuan Phan](https://www.linkedin.com/in/tuan-phan-33b4631b7/): Feedback
+* [Dang Huynh](https://www.linkedin.com/in/dangmhuynh/): Feedback
+* [Trang Dang](https://github.com/ttd22): Feedback, Make official document
 
 # List Epics related to this theme
 1. [Epic 1: Define project objectives and goals](epics/epic_doc_goal.md)
