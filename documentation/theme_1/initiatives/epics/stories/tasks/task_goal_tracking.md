@@ -18,7 +18,7 @@ project's purpose, objectives, and stakeholders.
 -   The project charter will be used to guide decision-making throughout the 
     project and to ensure that the project stays aligned with its goals.
 
-**Effort Estimate:** [Provide an estimate of the time required to complete the task, usually in hours or points]
+**Effort Estimate:** The project manager has to complete this task daily or weekly.
 
 **Assigned To:** An Tran (project manager)
 
