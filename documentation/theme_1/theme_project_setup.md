@@ -12,7 +12,7 @@ requirements throughout the life of the project, setting us up for the long-term
 
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
 
-* Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.
+* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
 
 * [Create initial web page templates that includes](initiatives/initiative_initial.md)
   * The home page: introduction, logos, links to several pages
